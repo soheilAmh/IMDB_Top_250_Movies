@@ -1,2 +1,3 @@
 # IMDB_Top_250_Movies
-Extracting top 250 movies from IMDB and their info, and creating stats and dashboards for them in Excel.  
+I extracted information of top 250 movies from the IMDB website using Selenium in python, these information include Title, Year of production, Parental Guide, Runtime, Genres, Directors, Writers, Movie Stars, Gross in US & Canada and MovieID for each one of them, then created dashboards for some stats like:
+top 10 highest grossing movies, top 5 most active actors, number of movies for each decade and ... 
